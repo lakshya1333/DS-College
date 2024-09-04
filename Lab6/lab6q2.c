@@ -1,3 +1,6 @@
+//Write a program to evaluate prefix expression. The input to the program is a prefix
+//expression.
+
 #include <stdio.h>
 #include <ctype.h>
 
