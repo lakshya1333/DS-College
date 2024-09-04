@@ -1,3 +1,6 @@
+//Write a program to input an infix expression and convert into its equivalent prefix
+//form and display. Operands can be single character.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
