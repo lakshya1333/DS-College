@@ -1,3 +1,7 @@
+//Write a program that converts a prefix expression to a fully parenthesized infix
+//expression.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
